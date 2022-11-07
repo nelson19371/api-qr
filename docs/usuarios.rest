@@ -1,0 +1,16 @@
+
+
+GET http://localhost:3030/usuarios/
+
+
+###
+
+POST http://localhost:3030/usuarios
+Content-Type: application/json
+
+
+{
+    "rut": "1933339aa2901",
+    "ubicacion":"2304039aa2901"
+
+}
