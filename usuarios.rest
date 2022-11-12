@@ -1,16 +1,17 @@
 
 
-GET http://localhost:3030/usuarios/
+GET https://api171800.herokuapp.com/usuarios/
 
 
 ###
 
-POST http://localhost:3030/usuarios
+POST https://api171800.herokuapp.com/usuarios
 Content-Type: application/json
 
 
 {
-    "rut": "1933339aa2901",
-    "ubicacion":"2304039aa2901"
+    "rut": "1933339aa2901ss",
+    "ubicacion":"2304039aa2901ss",
+    "fecha": "7/11/2022, 13:21:29"
 
 }
