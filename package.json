@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js" 
+    "start": "node src/index.js",
+    "build": "echo 'Bulding... "
+
   },
   "keywords": [],
   "author": "",

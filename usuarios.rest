@@ -1,6 +1,6 @@
 
 
-GET http://localhost:3030/usuarios/1
+GET http://localhost:3030/usuarios/
 
 
 ###
@@ -10,7 +10,7 @@ Content-Type: application/json
 
 
 {
-    "rut": "1933339aa290",
-    "ubicacion":"2304039aa290"
+    "rut": "1933339aa2901",
+    "ubicacion":"2304039aa2901"
 
 }
